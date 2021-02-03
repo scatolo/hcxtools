@@ -1,0 +1,12 @@
+hcxeiutool
+hcxessidtool
+hcxhash2cap
+hcxhashcattool
+hcxhashtool
+hcxmactool
+hcxpcapngtool
+hcxpmkidtool
+hcxpsktool
+hcxwltool
+whoismac
+wlancap2wpasec
